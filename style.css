@@ -1,0 +1,11 @@
+.stripped-text{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    text-transform: uppercase;
+    background: repeating-linear-gradient(white, white 2px, #7AE4B2 2px, #7AE4B2 3px);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    color: #183D58;
+    display: table;
+    margin: 20px auto;
+}
